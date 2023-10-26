@@ -1,0 +1,1 @@
+Szurovecz Zsolt - IT napjainkban
