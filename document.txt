@@ -1,3 +1,5 @@
 Napjainkban az IT nagyon szerteágazó, specifikus tudást igénylő pozíciók összessége...
 
-a legjobb pozíció a tesztelői pozíció!
+a legjobb pozíció a tesztelői pozíció, mert a tesztelő az aki a legjobban ismeri a folyamatokat, az alkalmazást és a legváltozatosabb feladatai vannak.
+
+légy te is tesztelő! :)
